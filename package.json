@@ -1,0 +1,13 @@
+{
+  "name": "mockServer",
+  "version": "0.0.1",
+  "description": "server mocking with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya S A",
+  "dependencies": {
+    "express": "~4.16.3"
+  }
+}

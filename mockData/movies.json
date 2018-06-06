@@ -1,0 +1,29 @@
+
+{
+	"operationStatus" : {
+	"statusCode":"200",
+	"statusMessage":"success"
+},
+	"movies": [
+{
+	"title" : "Movie1",
+	"year" : 2012,
+	"type" : "movie"
+},
+{
+	"title" : "SMovie2",
+	"year" : 1977,
+	"type" : "movie"
+},
+{
+	"title" : "Movie3",
+	"year" : 1980,
+	"type" : "movie"
+},
+{
+	"title" : "Movie4",
+	"year" : 1983,
+	"type" : "movie"
+}
+]
+}
