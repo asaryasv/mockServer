@@ -11,9 +11,9 @@ how to start the server??
 
 1. checkout the application
 2. Open terminal and run
-	a. cd mockServer
-	b. npm install
- 	c. node app.js
+	1. cd mockServer
+	2. npm install
+ 	3. node app.js
 3. Go to http://localhost:3000/api/movies 
 
 
