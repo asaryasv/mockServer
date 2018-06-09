@@ -12,7 +12,7 @@ apiRoutes.get('/movies', function(req,res) {
   res.status(200).json(movies);
 })
 
-app.use(apiRoutes);
+app.use('/api',apiRoutes);
 
 
 app.listen(port, function(){
