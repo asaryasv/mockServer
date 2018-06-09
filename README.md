@@ -8,6 +8,7 @@ how to start the server??
 
 1. checkout the application
 2. Open terminal with application directory path and run npm install
+3. Run node app.js
 3. Go to http://localhost:3000/api/movies in browser
 
 
