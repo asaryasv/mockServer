@@ -1,16 +1,19 @@
 # mockServer
 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
 http response mocking with express
 
+---------------------------------------------
 ---------------------------------------------
 
 how to start the server??
 
 1. checkout the application
 2. Open terminal and run
-	a) cd mockServer
-	b) npm install
- 	c) node app.js
+	a. cd mockServer
+	b. npm install
+ 	c. node app.js
 3. Go to http://localhost:3000/api/movies 
 
 
